@@ -7,6 +7,7 @@ language:
 - es
 - fr
 inference: false
+license: tii-falcon-llm
 ---
 
 # 🚀 Falcon-40B
