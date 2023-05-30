@@ -10,8 +10,8 @@
     "AutoModelForCausalLM": "modelling_RW.RWForCausalLM"
   },
   "bias": false,
-  "bos_token_id": 1,
-  "eos_token_id": 2,
+  "bos_token_id": 11,
+  "eos_token_id": 11,
   "hidden_dropout": 0.0,
   "hidden_size": 8192,
   "initializer_range": 0.02,
