@@ -131,7 +131,7 @@ Falcon-40B was trained on 1,000B tokens of [RefinedWeb](https://huggingface.co/d
 | **Data source**    | **Fraction** | **Tokens** | **Sources**                       |
 |--------------------|--------------|------------|-----------------------------------|
 | [RefinedWeb-English](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) | 75%          | 750B     | massive web crawl                 |
-| RefinedWeb-Europe              | 7%           | 70B       | European massive zeb crawl                                   |
+| RefinedWeb-Europe              | 7%           | 70B       | European massive web crawl                                   |
 | Books  | 6%           | 60B        |                  |
 | Conversations      | 5%           | 50B        | Reddit, StackOverflow, HackerNews |
 | Code               | 5%           | 50B        |                                   |
