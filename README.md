@@ -23,7 +23,7 @@ inference: false
 
 ⚠️ **This is a raw, pretrained model, which should be further finetuned for most usecases.** If you are looking for a version better suited to taking generic instructions in a chat format, we recommend taking a look at [Falcon-40B-Instruct](https://huggingface.co/tiiuae/falcon-40b-instruct). 
 
-💸 **Looking for a smaller, less expensive model?** [Falcon-7B](https://huggingface.co/tiiuae/falcon-7b) is Falcon-40B's small brother!
+💸 **Looking for a smaller, less expensive model?** [Falcon-7B](https://huggingface.co/tiiuae/falcon-7b) is Falcon-40B's little brother!
 
 ```python
 from transformers import AutoTokenizer, AutoModelForCausalLM
